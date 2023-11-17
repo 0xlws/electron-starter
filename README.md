@@ -28,7 +28,7 @@ To get started, follow these steps:
 To start the development server, run the following command:
 
 ```
-npm run dev
+npm start
 ```
 
 This will start the Electron application in development mode.
